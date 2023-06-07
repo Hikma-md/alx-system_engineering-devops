@@ -1,2 +1,2 @@
 #!/bin/bash
-myyy long file
+ls -l
